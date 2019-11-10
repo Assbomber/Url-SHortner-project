@@ -7,3 +7,4 @@ Tech used:
 html, css, javascript, bootstrap, php, mysql, xampp(just for local web server)
 
 ![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
